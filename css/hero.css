@@ -1,2 +1,16 @@
+body{
+    margin: 0;
+}
+header{
+    background-color: cornflowerblue;
+    text-align: center;
+}
 
+header h1{
+    color: white;
+}
+
+header img{
+    border-radius: 150px;
+}
 
